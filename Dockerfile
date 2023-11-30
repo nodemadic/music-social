@@ -1,4 +1,4 @@
-FROM python:3.13-alpine:3.18
+FROM python:alpine3.18
 LABEL maintainer="nodemadic"
 
 ENV PYTHONUNBUFFERED 1
